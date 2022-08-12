@@ -1,2 +1,14 @@
-# gtav-money-loop
-a money loop for gta5. best way to get money without getting banned.
+to get this script started. drag the money loop lua file into the scripts folder of modest menu. Then launch the exe file and using ur numpad go all the way down to scripts. there you go, have fun
+
+
+
+
+
+
+
+
+
+
+
+
+novva 2022
