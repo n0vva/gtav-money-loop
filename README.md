@@ -3,7 +3,7 @@ to get this script started. drag the money loop lua file into the scripts folder
 !NOTE! you have to be in gta online before u do the steps in order for this to work.
 
 
-working as of august 13th 2022
+working as of september 10th 2022
 
 
 
